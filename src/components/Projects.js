@@ -89,6 +89,7 @@ export const Projects = () => {
                             key={1}
                             title="ML Visualization Tool"
                             imgUrl={ML}
+                            alt="ML"
                           >
                             Skills: Python, Flask, Javascript, Chart.js, AWS
                           </ProjectCard>
@@ -111,7 +112,12 @@ export const Projects = () => {
                         <div
                           style={{ display: "flex", justifyContent: "center" }}
                         >
-                          <ProjectCard key={2} title="Thoughtify" imgUrl={blog}>
+                          <ProjectCard
+                            key={2}
+                            title="Thoughtify"
+                            imgUrl={blog}
+                            alt="blog"
+                          >
                             Skills: React.js, Node.js, Express.js, MongoDB,
                             Postman
                           </ProjectCard>
@@ -134,7 +140,12 @@ export const Projects = () => {
                         <div
                           style={{ display: "flex", justifyContent: "center" }}
                         >
-                          <ProjectCard key={1} title="Hear-2-See" imgUrl={hear}>
+                          <ProjectCard
+                            key={1}
+                            title="Hear-2-See"
+                            imgUrl={hear}
+                            alt="hear"
+                          >
                             Skills: Python, Microsoft Azure, Google Cloud,
                             OpenAI, Streamlit
                           </ProjectCard>
@@ -164,7 +175,11 @@ export const Projects = () => {
           </Col>
         </Row>
       </Container>
-      <img className="background-image-right" src={colorSharp2}></img>
+      <img
+        className="background-image-right"
+        src={colorSharp2}
+        alt="bkg-image"
+      ></img>
     </section>
   );
 };

@@ -71,44 +71,44 @@ export const Skills = () => {
                 className="owl-carousel owl-theme skill-slider"
               >
                 <div className="item">
-                  <img src={python} alt="Image" />
+                  <img src={python} alt="Image1" />
                   <h5>Python</h5>
                 </div>
 
                 <div className="item">
-                  <img src={java} alt="Image" />
+                  <img src={java} alt="Image2" />
                   <h5>Java</h5>
                 </div>
                 <div className="item">
-                  <img src={cpp} alt="Image" />
+                  <img src={cpp} alt="Image3" />
                   <h5>C++</h5>
                 </div>
                 <div className="item">
-                  <img src={sharp} alt="Image" />
+                  <img src={sharp} alt="Image4" />
                   <h5>C#</h5>
                 </div>
                 <div className="item">
-                  <img src={js} alt="Image" />
+                  <img src={js} alt="Image5" />
                   <h5>Javascript</h5>
                 </div>
                 <div className="item">
-                  <img src={html} alt="Image" />
+                  <img src={html} alt="Image6" />
                   <h5>HTML</h5>
                 </div>
                 <div className="item">
-                  <img src={css} alt="Image" />
+                  <img src={css} alt="Image7" />
                   <h5>CSS</h5>
                 </div>
                 <div className="item">
-                  <img src={sql} alt="Image" />
+                  <img src={sql} alt="Image8" />
                   <h5>SQL</h5>
                 </div>
                 <div className="item">
-                  <img src={swift} alt="Image" />
+                  <img src={swift} alt="Image9" />
                   <h5>Swift</h5>
                 </div>
                 <div className="item">
-                  <img src={matlab} alt="Image" />
+                  <img src={matlab} alt="Image10" />
                   <h5>MatLab</h5>
                 </div>
               </Carousel>
@@ -128,51 +128,51 @@ export const Skills = () => {
                 className="owl-carousel owl-theme skill-slider"
               >
                 <div className="item">
-                  <img src={react} alt="Image" />
+                  <img src={react} alt="Image11" />
                   <h5>React.js</h5>
                 </div>
                 <div className="item">
-                  <img src={node} alt="Image" />
+                  <img src={node} alt="Image12" />
                   <h5>Node.js</h5>
                 </div>
                 <div className="item">
-                  <img src={express} alt="Image" />
+                  <img src={express} alt="Image13" />
                   <h5>Express.js</h5>
                 </div>
                 <div className="item">
-                  <img src={flask} alt="Image" />
+                  <img src={flask} alt="Image14" />
                   <h5>Flask</h5>
                 </div>
                 <div className="item">
-                  <img src={kubernetes} alt="Image" />
+                  <img src={kubernetes} alt="Image15" />
                   <h5>Kubernetes</h5>
                 </div>
                 <div className="item">
-                  <img src={redux} alt="Image" />
+                  <img src={redux} alt="Image16" />
                   <h5>Redux</h5>
                 </div>
                 <div className="item">
-                  <img src={mongoose} alt="Image" />
+                  <img src={mongoose} alt="Image17" />
                   <h5>Mongoose</h5>
                 </div>
                 <div className="item">
-                  <img src={graph} alt="Image" />
+                  <img src={graph} alt="Image18" />
                   <h5>GraphQL</h5>
                 </div>
                 <div className="item">
-                  <img src={angular} alt="Image" />
+                  <img src={angular} alt="Image19" />
                   <h5>Angular</h5>
                 </div>
                 <div className="item">
-                  <img src={vue} alt="Image" />
+                  <img src={vue} alt="Image20" />
                   <h5>Vue.js</h5>
                 </div>
                 <div className="item">
-                  <img src={numpy} alt="Image" />
+                  <img src={numpy} alt="Image21" />
                   <h5>NumPy</h5>
                 </div>
                 <div className="item">
-                  <img src={pandas} alt="Image" />
+                  <img src={pandas} alt="Image22" />
                   <h5>pandas</h5>
                 </div>
               </Carousel>
@@ -192,39 +192,39 @@ export const Skills = () => {
                 className="owl-carousel owl-theme skill-slider"
               >
                 <div className="item">
-                  <img src={mongo} alt="Image" />
+                  <img src={mongo} alt="Image23" />
                   <h5>MongoDB</h5>
                 </div>
                 <div className="item">
-                  <img src={mySQL} alt="Image" />
+                  <img src={mySQL} alt="Image24" />
                   <h5>MySQL</h5>
                 </div>
                 <div className="item">
-                  <img src={server} alt="Image" />
+                  <img src={server} alt="Image25" />
                   <h5>Microsoft SQL Server</h5>
                 </div>
                 <div className="item">
-                  <img src={fire} alt="Image" />
+                  <img src={fire} alt="Image26" />
                   <h5>Firebase</h5>
                 </div>
                 <div className="item">
-                  <img src={git} alt="Image" />
+                  <img src={git} alt="Image27" />
                   <h5>Git</h5>
                 </div>
                 <div className="item">
-                  <img src={cloud} alt="Image" />
+                  <img src={cloud} alt="Image28" />
                   <h5>Google Cloud</h5>
                 </div>
                 <div className="item">
-                  <img src={azure} alt="Image" />
+                  <img src={azure} alt="Image29" />
                   <h5>Microsoft Azure</h5>
                 </div>
                 <div className="item">
-                  <img src={aws} alt="Image" />
+                  <img src={aws} alt="Image30" />
                   <h5>AWS</h5>
                 </div>
                 <div className="item">
-                  <img src={oracle} alt="Image" />
+                  <img src={oracle} alt="Image31" />
                   <h5>Oracle Cloud</h5>
                 </div>
               </Carousel>
@@ -232,7 +232,7 @@ export const Skills = () => {
           </div>
         </div>
       </div>
-      <img className="background-image-left" src={colorSharp} alt="Image" />
+      <img className="background-image-left" src={colorSharp} alt="Image32" />
     </section>
   );
 };
